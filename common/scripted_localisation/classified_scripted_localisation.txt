@@ -1,0 +1,226 @@
+defined_text = {
+    name = rankstring
+    text = {
+        trigger = {
+            check_variable = { rank = 1 }
+        }
+        localization_key = RANKS1
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 2 }
+        }
+        localization_key = RANKS2
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 3 }
+        }
+        localization_key = RANKS3
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 4 }
+        }
+        localization_key = RANKS4
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 5 }
+        }
+        localization_key = RANKS5
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 6 }
+        }
+        localization_key = RANKS6
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 7 }
+        }
+        localization_key = RANKS7
+    }
+	text = {
+        trigger = {
+            check_variable = { rank = 8 }
+        }
+        localization_key = RANKS8
+    }
+    text = {
+        localization_key = mod_localization_key
+    }
+}
+defined_text = {
+    name = factionlimit
+    text = {
+        trigger = {
+            date > 1936.01.01
+            NOT = { date > 1937.01.01 }
+        }
+        localization_key = FACTIONLIMIT1
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1937.01.01 }
+            date > 1937.01.01
+            NOT = { date > 1938.01.01 }
+        }
+        localization_key = FACTIONLIMIT2
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1938.01.01 }
+            date > 1938.01.01
+            NOT = { date > 1939.01.01 }
+        }
+        localization_key = FACTIONLIMIT3
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1939.01.01 }
+            date > 1939.01.01
+            NOT = { date > 1940.01.01 }
+        }
+        localization_key = FACTIONLIMIT4
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1940.01.01 }
+            date > 1940.01.01
+            NOT = { date > 1941.01.01 }
+        }
+        localization_key = FACTIONLIMIT5
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1941.01.01 }
+            date > 1941.01.01
+            NOT = { date > 1942.01.01 }
+        }
+        localization_key = FACTIONLIMIT6
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1942.01.01 }
+            date > 1942.01.01
+            NOT = { date > 1943.01.01 }
+        }
+        localization_key = FACTIONLIMIT7
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1943.01.01 }
+            date > 1943.01.01
+            NOT = { date > 1944.01.01 }
+        }
+        localization_key = FACTIONLIMIT8
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1944.01.01 }
+            date > 1944.01.01
+            NOT = { date > 1945.01.01 }
+        }
+        localization_key = FACTIONLIMIT9
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1945.01.01 }
+            date > 1945.01.01
+            NOT = { date > 1946.01.01 }
+        }
+        localization_key = FACTIONLIMIT10
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1946.01.01 }
+            date > 1946.01.01
+            NOT = { date > 1947.01.01 }
+        }
+        localization_key = FACTIONLIMIT11
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1947.01.01 }
+            date > 1947.01.01
+            NOT = { date > 1948.01.01 }
+        }
+        localization_key = FACTIONLIMIT12
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1948.01.01 }
+            date > 1948.01.01
+            NOT = { date > 1949.01.01 }
+        }
+        localization_key = FACTIONLIMIT13
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1949.01.01 }
+            date > 1949.01.01
+            NOT = { date > 1950.01.01 }
+        }
+        localization_key = FACTIONLIMIT14
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1950.01.01 }
+            date > 1950.01.01
+            NOT = { date > 1951.01.01 }
+        }
+        localization_key = FACTIONLIMIT15
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1951.01.01 }
+            date > 1951.01.01
+            NOT = { date > 1952.01.01 }
+        }
+        localization_key = FACTIONLIMIT16
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1952.01.01 }
+            date > 1952.01.01
+            NOT = { date > 1953.01.01 }
+        }
+        localization_key = FACTIONLIMIT17
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1953.01.01 }
+            date > 1953.01.01
+            NOT = { date > 1954.01.01 }
+        }
+        localization_key = FACTIONLIMIT18
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1954.01.01 }
+            date > 1954.01.01
+            NOT = { date > 1955.01.01 }
+        }
+        localization_key = FACTIONLIMIT19
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1955.01.01 }
+            date > 1955.01.01
+            NOT = { date > 1956.01.01 }
+        }
+        localization_key = FACTIONLIMIT20
+    }
+	text = {
+        trigger = {
+            NOT = { date < 1956.01.01 }
+            date > 1956.01.01
+        }
+        localization_key = FACTIONLIMIT21
+    }
+    text = {
+        localization_key = mod_localization_key
+    }
+}

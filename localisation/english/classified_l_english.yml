@@ -1,0 +1,108 @@
+﻿l_english:
+ allow_classified:0 "Enable Classified?"
+ allow_classified_option_yes:0 "Yes"
+ allow_classified_option_yes_desc:0 "Enables the country rank, points and faction system - refer to our ruleset"
+ allow_classified_option_no:0 "No"
+ allow_classified_option_no_desc:0 "Country ranks, points and factions are not tracked"
+ rt56rp_historical:0 "Historical?"
+ rt56rp_historical_option_yes:0 "Yes"
+ rt56rp_historical_option_yes_desc:0 "Various RP tools will be disabled. You do not need to set other relevant gamerules."
+ rt56rp_historical_option_no:0 "No"
+ rt56rp_historical_option_no_desc:0 "RP tools will not be disabled."
+
+ classified_rank_X:0 "Rank X"
+ classified_rank_X_desc:0 "The rank of your country is currently X, weighted at 16 points."
+ classified_rank_S:0 "Rank S"
+ classified_rank_S_desc:0 "The rank of your country is currently S, weighted at 12 points."
+ classified_rank_A:0 "Rank A"
+ classified_rank_A_desc:0 "The rank of your country is currently A, weighted at 10 points."
+ classified_rank_B:0 "Rank B"
+ classified_rank_B_desc:0 "The rank of your country is currently B, weighted at 8 points."
+ classified_rank_C:0 "Rank C"
+ classified_rank_C_desc:0 "The rank of your country is currently C, weighted at 6 points."
+ classified_rank_D:0 "Rank D"
+ classified_rank_D_desc:0 "The rank of your country is currently D, weighted at 4 points."
+ classified_rank_E:0 "Rank E"
+ classified_rank_E_desc:0 "The rank of your country is currently E, weighted at 2 points."
+ classified_rank_F:0 "Rank F"
+ classified_rank_F_desc:0 "The rank of your country is currently F, weighted at 0 points."
+ classified_rank_AI:0 "No Rank"
+ classified_rank_AI_desc:0 "This country is AI and therefore has no rank. You may invite one independent AI country into your faction, unless you have created AI puppets (AI puppets at the start of the game do not count towards this limit)."
+ Ranking_Charts:0 "§HCountry Ranks, Points and Factions§!\n\n§GRanks update quarterly§!\n\nHover over the title within the interface for more information"
+ title:0 "§HCountry Ranks, Points and Factions§!"
+ title_tt:0 "Given the dynamic nature of these ranks, you should be mindful that your §Rwar declaration allowed date can change at any moment§!.\n\nMake a note of your Country Rank before declaring a major war.\n\nRefer to the ruleset for more details."
+ charters_gridbox_X_title:0 "§HX§! (16)"
+ charters_gridbox_X_desc:0 "\n\nWar Allowed:\nJan 1941"
+ charters_gridbox_S_title:0 "§HS§! (12)"
+ charters_gridbox_S_desc:0 "\n\nWar Allowed:\nJan 1940"
+ charters_gridbox_A_title:0 "§HA§! (10)"
+ charters_gridbox_A_desc:0 "\n\nWar Allowed:\nJan 1939"
+ charters_gridbox_B_title:0 "§HB§! (8)"
+ charters_gridbox_B_desc:0 "\n\nWar Allowed:\nJan 1938"
+ charters_gridbox_C_title:0 "§HC§! (6)"
+ charters_gridbox_C_desc:0 "\n\nWar Allowed:\nJul 1937"
+ charters_gridbox_D_title:0 "§HD§! (4)"
+ charters_gridbox_D_desc:0 "\n\nWar Allowed:\nJan 1937"
+ charters_gridbox_E_title:0 "§HE§! (2)"
+ charters_gridbox_E_desc:0 "\n\nWar Allowed:\nJul 1936"
+ charters_gridbox_F_title:0 "§HF§! (0)"
+ charters_gridbox_F_desc:0 "\n\nWar Allowed:\nJan 1936"
+ charters_gridbox_factions_desc:0 "§HFactions§!"
+ RANKS1:0 "§HF§! (0)"
+ RANKS2:0 "§HE§! (2)"
+ RANKS3:0 "§HD§! (4)"
+ RANKS4:0 "§HC§! (6)"
+ RANKS5:0 "§HB§! (8)"
+ RANKS6:0 "§HA§! (10)"
+ RANKS7:0 "§HS§! (12)"
+ RANKS8:0 "§HX§! (16)"
+ faction_score:0 "[?fac_score|0]/[factionlimit]"
+ FACTIONLIMIT1:0 "12" #12
+ FACTIONLIMIT2:0 "15" #14
+ FACTIONLIMIT3:0 "18" #16
+ FACTIONLIMIT4:0 "21" #18
+ FACTIONLIMIT5:0 "24" #20
+ FACTIONLIMIT6:0 "27" #22
+ FACTIONLIMIT7:0 "30" #24
+ FACTIONLIMIT8:0 "33" #26
+ FACTIONLIMIT9:0 "36" #28
+ FACTIONLIMIT10:0 "39" #30
+ FACTIONLIMIT11:0 "42" #32
+ FACTIONLIMIT12:0 "45" #34
+ FACTIONLIMIT13:0 "45" #36
+ FACTIONLIMIT14:0 "45" #38
+ FACTIONLIMIT15:0 "45" #40
+ FACTIONLIMIT16:0 "45" #42
+ FACTIONLIMIT17:0 "45" #44
+ FACTIONLIMIT18:0 "45" #46
+ FACTIONLIMIT19:0 "45" #48
+ FACTIONLIMIT20:0 "45" #50
+ FACTIONLIMIT20:0 "45" #52
+ FACTIONLIMIT21:0 "45" #54
+ mod_localization_key: "NA"
+ country_name:0 "[THIS.GetName]"
+
+ class.1.a:0 "Ok"
+ class.1.t:0 "Your Rank Has Changed!"
+ class.1.desc:0 "You are now an §RF Rank§!.\nYour war allowed date is now §RJan 1936§!."
+ class.2.a:0 "Ok"
+ class.2.t:0 "Your Rank Has Changed!"
+ class.2.desc:0 "You are now an §RE Rank§!.\nYour war allowed date is now §RJan 1937§!."
+ class.3.a:0 "Ok"
+ class.3.t:0 "Your Rank Has Changed!"
+ class.3.desc:0 "You are now a §RD Rank§!.\nYour war allowed date is now §RJan 1938§!."
+ class.4.a:0 "Ok"
+ class.4.t:0 "Your Rank Has Changed!"
+ class.4.desc:0 "You are now a §RC Rank§!.\nYour war allowed date is now §RJul 1938§!."
+ class.5.a:0 "Ok"
+ class.5.t:0 "Your Rank Has Changed!"
+ class.5.desc:0 "You are now a §RB Rank§!.\nYour war allowed date is now §RJan 1939§!."
+ class.6.a:0 "Ok"
+ class.6.t:0 "Your Rank Has Changed!"
+ class.6.desc:0 "You are now an §RA Rank§!.\nYour war allowed date is now §RJul 1939§!."
+ class.7.a:0 "Ok"
+ class.7.t:0 "Your Rank Has Changed!"
+ class.7.desc:0 "You are now an §RS Rank§!.\nYour war allowed date is now §RJan 1940§!."
+ class.8.a:0 "Ok"
+ class.8.t:0 "Your Rank Has Changed!"
+ class.8.desc:0 "You are now an §RX Rank§!.\nYour war allowed date is now §RJul 1940§!."
