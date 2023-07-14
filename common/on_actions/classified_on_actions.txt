@@ -291,12 +291,12 @@ on_actions = {
 					divide_temp_variable = { temp_share_tungsten_resource = temp_total_steel_resource }
 					divide_temp_variable = { temp_share_steel_resource = temp_total_steel_resource }
 					divide_temp_variable = { temp_share_chromium_resource = temp_total_chromium_resource }
-					multiply_temp_variable = { temp_share_oil_resource = 17.5 }
-					multiply_temp_variable = { temp_share_aluminium_resource = 12.5 }
-					multiply_temp_variable = { temp_share_rubber_resource = 20 }
-					multiply_temp_variable = { temp_share_tungsten_resource = 12.5 }
-					multiply_temp_variable = { temp_share_steel_resource = 7.5 }
-					multiply_temp_variable = { temp_share_chromium_resource = 5 }
+					multiply_temp_variable = { temp_share_oil_resource = 4 }
+					multiply_temp_variable = { temp_share_aluminium_resource = 1.5 }
+					multiply_temp_variable = { temp_share_rubber_resource = 6 }
+					multiply_temp_variable = { temp_share_tungsten_resource = 1.5 }
+					multiply_temp_variable = { temp_share_steel_resource = 0.5 }
+					multiply_temp_variable = { temp_share_chromium_resource = 1.5 }
 					set_temp_variable = { temp_share_resources = temp_share_oil_resource }
 					add_to_temp_variable = { temp_share_resources = temp_share_aluminium_resource }
 					add_to_temp_variable = { temp_share_resources = temp_share_rubber_resource }
